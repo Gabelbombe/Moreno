@@ -1,0 +1,41 @@
+[2015-09-04 19:10:08] lumen.ERROR: exception 'ErrorException' with message 'Undefined index: REQUEST_METHOD' in /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php:1444
+Stack trace:
+#0 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1444): Laravel\Lumen\Application->Laravel\Lumen\{closure}(8, 'Undefined index...', '/Users/ehime/Re...', 1444, Array)
+#1 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1172): Laravel\Lumen\Application->getMethod()
+#2 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1125): Laravel\Lumen\Application->dispatch(NULL)
+#3 /Users/ehime/Repositories/Github/Moreno/public/index.php(4): Laravel\Lumen\Application->run()
+#4 {main}  
+[2015-09-04 19:10:35] lumen.ERROR: exception 'ErrorException' with message 'Undefined index: REQUEST_URI' in /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php:1457
+Stack trace:
+#0 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1457): Laravel\Lumen\Application->Laravel\Lumen\{closure}(8, 'Undefined index...', '/Users/ehime/Re...', 1457, Array)
+#1 /Users/ehime/Repositories/Github/Moreno/bootstrap/app.php(9): Laravel\Lumen\Application->getPathInfo()
+#2 /Users/ehime/Repositories/Github/Moreno/public/index.php(3): require('/Users/ehime/Re...')
+#3 {main}  
+[2015-09-04 19:10:44] lumen.ERROR: exception 'ErrorException' with message 'Undefined index: REQUEST_METHOD' in /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php:1444
+Stack trace:
+#0 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1444): Laravel\Lumen\Application->Laravel\Lumen\{closure}(8, 'Undefined index...', '/Users/ehime/Re...', 1444, Array)
+#1 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1172): Laravel\Lumen\Application->getMethod()
+#2 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1125): Laravel\Lumen\Application->dispatch(NULL)
+#3 /Users/ehime/Repositories/Github/Moreno/public/index.php(4): Laravel\Lumen\Application->run()
+#4 {main}  
+[2015-09-04 19:13:47] lumen.ERROR: exception 'ErrorException' with message 'Undefined index: REQUEST_METHOD' in /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php:1444
+Stack trace:
+#0 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1444): Laravel\Lumen\Application->Laravel\Lumen\{closure}(8, 'Undefined index...', '/Users/ehime/Re...', 1444, Array)
+#1 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1172): Laravel\Lumen\Application->getMethod()
+#2 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1125): Laravel\Lumen\Application->dispatch(NULL)
+#3 /Users/ehime/Repositories/Github/Moreno/public/index.php(4): Laravel\Lumen\Application->run()
+#4 {main}  
+[2015-09-04 19:14:39] lumen.ERROR: exception 'ErrorException' with message 'Undefined index: REQUEST_METHOD' in /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php:1444
+Stack trace:
+#0 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1444): Laravel\Lumen\Application->Laravel\Lumen\{closure}(8, 'Undefined index...', '/Users/ehime/Re...', 1444, Array)
+#1 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1172): Laravel\Lumen\Application->getMethod()
+#2 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1125): Laravel\Lumen\Application->dispatch(NULL)
+#3 /Users/ehime/Repositories/Github/Moreno/public/index.php(4): Laravel\Lumen\Application->run()
+#4 {main}  
+[2015-09-04 19:15:48] lumen.ERROR: exception 'ErrorException' with message 'Undefined index: REQUEST_METHOD' in /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php:1444
+Stack trace:
+#0 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1444): Laravel\Lumen\Application->Laravel\Lumen\{closure}(8, 'Undefined index...', '/Users/ehime/Re...', 1444, Array)
+#1 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1172): Laravel\Lumen\Application->getMethod()
+#2 /Users/ehime/Repositories/Github/Moreno/vendor/laravel/lumen-framework/src/Application.php(1125): Laravel\Lumen\Application->dispatch(NULL)
+#3 /Users/ehime/Repositories/Github/Moreno/public/index.php(4): Laravel\Lumen\Application->run()
+#4 {main}  

@@ -26,6 +26,14 @@
       "Controller": "src/",
       "View":       "src/",
       "Helper":     "src/"
+    },
+    "autoload-dev": {
+      "classmap": [
+        "tests/"
+      ]
+    },
+    "config": {
+      "preferred-install": "dist"
     }
   }
 }
